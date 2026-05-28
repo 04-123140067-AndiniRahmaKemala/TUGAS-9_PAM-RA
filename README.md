@@ -1,4 +1,4 @@
-# 📝 Tugas Individu 3 - My Notes App (KMP + Groq AI)
+# 📝 Tugas Individu 9 - My Notes App AI (KMP + Groq AI)
 
 Aplikasi manajemen catatan cerdas berbasis **Kotlin Multiplatform (KMP)** yang menggabungkan fitur native platform dengan kekuatan **Artificial Intelligence**.
 
@@ -52,8 +52,17 @@ Aplikasi ini menggunakan **Groq Cloud API** sebagai mesin AI utama karena kecepa
 2. **Platform Features (25%)**: Penggunaan `expect/actual` pada `DeviceInfo` dan `NetworkMonitor`.
 3. **AI Integration (30%)**: Integrasi Llama 3.3 melalui Groq API dengan fitur Ringkasan & Terjemahan.
 4. **UX & Design**: Navigasi yang lancar dengan Bottom Navigation dan tema Dark Mode.
+## Dokumentasi Visual
+
+| AI Summarizer (Ringkas) | AI Summarizer (Translate) |
+| :---: | :---: |
+| <img width="328" height="718" alt="Screenshot 2026-05-28 213456" src="https://github.com/user-attachments/assets/5a863579-0356-4240-aec6-d3d4e6a6528d" /> | <img width="325" height="714" alt="Screenshot 2026-05-28 213514" src="https://github.com/user-attachments/assets/cc3e50e6-7201-4d69-832b-95f002602828" /> |
+
+## Video Demo
+Video demo fitur aplikasi dapat diakses melalui tautan berikut : https://drive.google.com/file/d/1jjYQwpi7hpfHBs6b2J_i7gD_RrcqHWkL/view?usp=drive_link
+
 
 ---
 
 **Developed by:** Andinirhm 🌸
-**NIM/Course:** Pengembangan Aplikasi Mobile (PAM)
+**NIM/Course:** 123140067/Pengembangan Aplikasi Mobile (PAM)
